@@ -18,4 +18,4 @@ Convert lightweight markup to an HTML form.
 
 ##### See it in action!
 
-![See it in action!](screenshot.gif)
+![See it in action!](https://raw.githubusercontent.com/resistdesign/quick-mark/master/screenshot.gif)

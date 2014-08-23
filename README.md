@@ -12,7 +12,7 @@ Convert lightweight markup to an HTML form.
   blue&lt;
   Suffix...
   Go.
-  HINT: Click "Go" when ready.
+  HINT: Click "Go" when ready. 
   &gt;
 </pre>
 

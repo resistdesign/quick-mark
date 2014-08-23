@@ -9,4 +9,9 @@ module.exports =
     qm = require './QuickMark.js'
     text = selection.getText()
     converted = qm.convert text
-    selection.insertText converted
+
+    textOpts =
+      select: true
+      autoIndent: true
+
+    selection.insertText converted, textOpts

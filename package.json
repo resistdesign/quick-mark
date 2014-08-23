@@ -1,7 +1,7 @@
 {
   "name": "quick-mark",
   "main": "./lib/quick-mark",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Convert lightweight markup to an HTML form.",
   "activationEvents": [
     "quick-mark:convert"

@@ -5,15 +5,15 @@ Convert lightweight markup to an HTML form.
 ##### Example Markup
 
 <pre>
-  <
+  &lt;
   First Name?
   Last Name?
-  >
-  blue<
+  &gt;
+  blue&lt;
   Suffix...
   Go.
   HINT: Click "Go" when ready.
-  >
+  &gt;
 </pre>
 
 ##### See it in action!

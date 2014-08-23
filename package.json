@@ -1,8 +1,8 @@
 {
   "name": "quick-mark",
   "main": "./lib/quick-mark",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Convert lightweight markup to an HTML form.",
   "activationEvents": ["quick-mark:convert"],
   "repository": "https://github.com/atom/quick-mark",
   "license": "MIT",

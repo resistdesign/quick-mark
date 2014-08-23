@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Convert lightweight markup to an HTML form.",
   "activationEvents": ["quick-mark:convert"],
-  "repository": "https://github.com/atom/quick-mark",
+  "repository": "https://github.com/resistdesign/quick-mark",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
